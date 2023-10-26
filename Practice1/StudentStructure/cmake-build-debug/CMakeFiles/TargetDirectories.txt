@@ -1,0 +1,3 @@
+/home/vboxuser/Desktop/Projects/cmake-build-debug/CMakeFiles/New_Folder.dir
+/home/vboxuser/Desktop/Projects/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/vboxuser/Desktop/Projects/cmake-build-debug/CMakeFiles/rebuild_cache.dir
