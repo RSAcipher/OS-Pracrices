@@ -1,0 +1,3 @@
+/home/vboxuser/CLionProjects/Practice3/Task1/cmake-build-debug/CMakeFiles/Task1.dir
+/home/vboxuser/CLionProjects/Practice3/Task1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/vboxuser/CLionProjects/Practice3/Task1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
